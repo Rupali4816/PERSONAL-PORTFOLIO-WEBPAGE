@@ -23,3 +23,5 @@ To build a portfolio webpage, several techniques can be employed:
 2. JavaScript: For adding interactivity and dynamic effects.
 3. Responsive Web Design: To ensure a smooth user experience across various devices.
 4. Content Management Systems (CMS): Such as WordPress or Wix, to simplify the development process.
+
+![Image](https://github.com/user-attachments/assets/d3bc0cec-f4b3-4bc0-9b99-0c22efaecbfe)
